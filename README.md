@@ -3,7 +3,7 @@
 <img src="https://www.flaticon.com/svg/static/icons/svg/479/479026.svg" align=right width=150 />
 
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/271/school_1f3eb.png" width="20" /> Information Systems student at Federal University of Pernambuco
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/271/triangular-flag_1f6a9.png" width="20" /> Started programming in 2018
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/271/triangular-flag_1f6a9.png" width="20" /> Started programming in 2018  
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/271/laptop_1f4bb.png" width="20" /> Software engineer intern
 
 
