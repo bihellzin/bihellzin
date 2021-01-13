@@ -8,14 +8,20 @@
 
 
 ##### Currently working with: <br>
-<img height="30" src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg"> &nbsp;<img height="30" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg"> &nbsp;<img height="30" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg">&nbsp;<img height="30" src="https://devicon.dev/devicon.git/icons/python/python-original.svg"> &nbsp;<img height="30" src="https://devicon.dev/devicon.git/icons/django/django-original.svg"> &nbsp; 
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp;
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"> &nbsp; 
 
 
 ##### Worked with: <br>
 <img height="30" src="https://devicon.dev/devicon.git/icons/rails/rails-plain-wordmark.svg"> &nbsp;<img height="30" src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg"> &nbsp;<img height="30" src="https://devicon.dev/devicon.git/icons/ruby/ruby-original.svg">&nbsp;<img height="30" src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg">
 
 ##### Learning: <br>
-<img height="30" src="https://devicon.dev/devicon.git/icons/go/go-line.svg"> &nbsp;<img height="30" src="https://devicon.dev/devicon.git/icons/rust/rust-plain.svg"> &nbsp;<img height="30" src="https://devicon.dev/devicon.git/icons/react/react-original.svg">
+<img height="30" src="https://devicon.dev/devicon.git/icons/go/go-line.svg"> &nbsp;
+<img height="30" src="https://devicon.dev/devicon.git/icons/rust/rust-plain.svg"> &nbsp;
+<img height="30" src="https://devicon.dev/devicon.git/icons/react/react-original.svg">
 
 <hr>
 
