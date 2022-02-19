@@ -21,10 +21,13 @@
 <img height="30" alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
 <img height="30" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;
 <img height="30" alt="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"> &nbsp; 
+<img height="30" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;  
 
 ##### Learning: <br>
 <img height="30" alt="Go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"> &nbsp;
-<img height="30" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img height="30" alt="OCaml" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg"> &nbsp;
+
+
 
 <hr>
 
