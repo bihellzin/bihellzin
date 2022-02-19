@@ -11,6 +11,8 @@
 <img height="30" alt="Sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> &nbsp;
 <img height="30" alt="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
 <img height="30" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">&nbsp;
+<img height="30" alt="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />&nbsp;
+
 
 
 ##### Already worked with: <br>
