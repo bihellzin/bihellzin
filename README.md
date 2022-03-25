@@ -21,7 +21,7 @@
 <img height="30" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
 <img height="30" alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
 <img height="30" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;
-<img height="30" alt="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"> &nbsp; 
+<img height="30" alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"> &nbsp; 
 <img height="30" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;  
 
 ##### Learning: <br>
