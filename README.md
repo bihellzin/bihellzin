@@ -1,9 +1,9 @@
 
-## I'm Gabriel <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, are you looking for something?
+## Hi, I'm Gabriel <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/271/school_1f3eb.png" width="20" /> Information Systems student at Federal University of Pernambuco  
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/271/triangular-flag_1f6a9.png" width="20" /> Started programming in 2018  
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/271/laptop_1f4bb.png" width="20" /> Frontend Developer at Daitan  
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/271/triangular-flag_1f6a9.png" width="20" /> Programming poorly and building useless stuff since 2018  
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/271/laptop_1f4bb.png" width="20" /> Frontend Developer at Encora  
 
 
 ##### Currently working with: <br>
