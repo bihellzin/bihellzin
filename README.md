@@ -15,7 +15,7 @@ I like cute things, programming, music and my dogs
     </a>
 </div>
 
-There are a lot of topics of my interest in technology, like Creative Programming, Functional Programming, System Design, WebGL, Software Architecture, Web3, API Usability, Accessibility, AI, Secutiry and Compilers. Yeah, it's too much and you might ask "do you have time to study all of this?". The answer is no.
+There are a lot of topics of my interest in technology, like Creative Programming, Functional Programming, System Design, WebGL, Software Architecture, Web3, API Usability, Accessibility, AI, Security and Compilers. Yeah, it's too much and you might ask "do you have time to study all of this?". The answer is no.
 
 Experience in both **Full Stack** and **Frontend Development** with the technologies below.  
 
