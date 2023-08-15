@@ -8,12 +8,12 @@ I like cute things, programming, music and my dogs
 
 ---
 
-<!-- <div align="right">
+<div align="right">
      <a href="https://github.com/bihellzin">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bihellzin&hide=html&layout=compact&&show_icons=true&line_height=27&langs_count=10&theme=radical"
         alt="Linguagens mais usadas" align="right">
     </a>
-</div> -->
+</div>
 
 There are a lot of topics of my interest in technology, like Creative Programming, Functional Programming, System Design, WebGL, Software Architecture, Web3, API Usability, Accessibility, AI, Security and Compilers. Yeah, it's too much and you might ask "do you have time to study all of this?". The answer is no.
 
